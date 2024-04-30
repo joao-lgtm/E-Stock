@@ -6,7 +6,7 @@ import { NotFound } from '../pages/NotFound';
 import { Suppliers } from '../pages/Suppliers';
 import { SalesReport } from '../pages/SalesReport';
 
-export function AppRoutes() {
+export function AdiminRoutes() {
   return (
     <Routes>
       <Route path="/" element={< Home />} />
